@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://rxresu.me/r/8d3qtn](https://rxresu.me/r/8d3qtn)
 
-- ⚡ Fun fact **I see no god up here, Other than me**
+- ⚡ **I see no god up here, Other than me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
