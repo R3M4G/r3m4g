@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **z3k3.1024@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/r/8d3qtn](https://rxresu.me/r/8d3qtn)
+- 📄 Know about my experiences [https://rxresu.me/r/3vaks6](https://rxresu.me/r/3vaks6)
 
 - ⚡ **I see no god up here, Other than me**
 
