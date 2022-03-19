@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **z3k3.1024@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/r/3vaks6](https://rxresu.me/r/3vaks6)
+- 📄 Know about my experiences [Resume](https://anonfiles.com/J6Kdo9P9x3/Astitva_Nikose_Resume_V5_pdf)
 
 - ⚡ **I see no god up here, Other than me**
 
