@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://z3k31024.pythonanywhere.com](https://z3k31024.pythonanywhere.com)
 
-- 💬 Ask me about **python, django and bash**
+- 💬 Ask me about **python, golang and bash**
 
 - 📫 How to reach me **z3k3.1024@gmail.com**
 
