@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **z3k3.1024@gmail.com**
 
-- 📄 Know about my experiences: [My resume](https://anonfiles.com/J6Kdo9P9x3/Astitva_Nikose_Resume_V5_pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
