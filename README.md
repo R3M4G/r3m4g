@@ -2,22 +2,19 @@
 <h1 align="center">Hi 👋, I'm Astitva <img src="https://i.pinimg.com/originals/06/66/59/066659e927c68b9ff54fa28d5921a63b.gif" width=50></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3m4g&label=View%20Count&color=06d6a0&style=flat" alt="r3m4g" /> </p>
 
-<p align="left"> <a href="https://twitter.com/astitva1024" target="blank"><img src="https://img.shields.io/twitter/follow/astitva1024?logo=twitter&style=for-the-badge" alt="astitva1024" /></a> </p>
-
-- 📝 I write articles on [https://z3k31024.pythonanywhere.com](https://z3k31024.pythonanywhere.com)
-
-- 💬 Ask me about **python, golang and bash**
-
-- 📫 How to reach me **z3k3.1024@gmail.com**
+# 💫 About Me:
+I write code to solve problems, break things creatively, and question my past self's life choices.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/astitva1024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astitva1024" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/z3k31024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="z3k31024" height="30" width="40" /></a>
-<a href="https://fb.com/astitva.nikose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="astitva.nikose" height="30" width="40" /></a>
-<a href="https://instagram.com/z3k31024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="z3k31024" height="30" width="40" /></a>
-</p>
+## 🚀 Socials:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/z3k31024)
+- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/astitva1024)
+- [![Peerlist](https://github-readme-badge.peerlist.io/api/z3k31024?style=for-the-badge)](https://peerlist.io/z3k31024)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ✍️ Random Dev Wisdom
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
